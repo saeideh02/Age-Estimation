@@ -4,8 +4,8 @@
 
 We have a "age estimation" project here. our input is a face cropped from an image and our output is the age of the input face.
 
-Dataset:
-For this project we use UTKKFace dataset. This dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity and Each image contains one face.
+# Dataset:
+For this project we use **UTKKFace** dataset. This dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity and Each image contains one face.
 Download's links are availble in the site below:
 https://susanqq.github.io/UTKFace/
 
